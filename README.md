@@ -37,3 +37,4 @@ Chapters of the book:
 [Ulf Bonde](http://learninginternetofthings.com/author/ulf-bonde/) has documented his progress with the book in a series of interesting and well-done video-tutorials on <http://learninginternetofthings.com/>. Some posts that might be of interest to people using code in this project include:
 
 * [Introduction to Internet Of Things](http://learninginternetofthings.com/introduction-to-internet-of-things/)
+* [Diving into the HTTP protocol](http://learninginternetofthings.com/diving-into-the-http-protocol/)
